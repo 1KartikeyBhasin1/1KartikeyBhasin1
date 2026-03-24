@@ -5,7 +5,7 @@
 🚀 B.Tech CSE (Big Data) @ UPES | DataStorm’24 Winner 🏆 :contentReference[oaicite:0]{index=0}  
 🧠 Focused on multi-agent AI systems, real-world APIs, and scalable backend logic  
 🔍 Exploring how AI agents + automation can solve practical problems (not just demos)  
-📫 Email: kartikeybhasin.dev@gmail.com  
+📫 Email: kartikeybhasin.tech@gmail.com  
 
 ---
 
@@ -47,6 +47,6 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/kartikeybhasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://github.com/1kartikeybhasin1" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
 </p>
