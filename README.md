@@ -1,4 +1,4 @@
-![Header](./github-header-banner%20(2).png)
+![Header](./github-header-banner.png)
 
 ## 💫 About Me:
 ☕ Building more systems than excuses — currently deep into AI + backend engineering  
