@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 ☕ Building more systems than excuses — currently deep into AI + backend engineering  
-🚀 B.Tech CSE (Big Data) @ UPES | DataStorm’24 Winner 🏆 :contentReference[oaicite:0]{index=0}  
+🚀 B.Tech CSE (Big Data) @ UPES | DataStorm’24 Winner 🏆
 🧠 Focused on multi-agent AI systems, real-world APIs, and scalable backend logic  
 🔍 Exploring how AI agents + automation can solve practical problems (not just demos)  
 📫 Email: kartikeybhasin.tech@gmail.com  
@@ -38,12 +38,7 @@
 - Backend system design & scalable APIs  
 - Applied NLP & LLM-based products  
 
----
 
-## 📊 GitHub Stats:
-<!-- Add your stats widgets here if needed -->
-
----
 
 ## 🔗 Connect with me:
 <p align="left">
